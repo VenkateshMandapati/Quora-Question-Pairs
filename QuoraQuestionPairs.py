@@ -2,7 +2,7 @@
 """
 Created on Sat Apr 29 16:59:36 2017
 
-@author: keert
+@author: Venkatesh Mandapati 
 """
 
 import math
